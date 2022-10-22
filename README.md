@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%EF%BD%9E%E6%88%91%E6%98%AF%E7%8E%8B%E5%AD%90%E6%AD%A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello%EF%BD%9E%E6%88%91%E6%98%AF%E7%8E%8B%E5%AD%90%E6%AD%A3)](https://git.io/typing-svg)
 <!--
 **zizheng02/zizheng02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
