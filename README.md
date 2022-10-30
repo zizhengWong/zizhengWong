@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello%EF%BD%9E%E6%88%91%E6%98%AF%E7%8E%8B%E5%AD%90%E6%AD%A3)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=628FDB&background=1A1B27&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%F0%9F%91%8BHello~I+am+Wang+Zizheng;%F0%9F%A5%B3Nice+to+meet+you+here!)](https://git.io/typing-svg)<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
