@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello%EF%BD%9E%E6%88%91%E6%98%AF%E7%8E%8B%E5%AD%90%E6%AD%A3)](https://git.io/typing-svg)<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zizheng02/zizheng02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
