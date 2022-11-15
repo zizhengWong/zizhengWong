@@ -1,6 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=628FDB&background=1A1B27&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%F0%9F%91%8BHello~I+am+Wang+Zizheng;%F0%9F%A5%B3Nice+to+meet+you+here!)](https://git.io/typing-svg)<br/>
+
+- 🌱 I’m currently learning Koa2 & Vue3 & React18
+- 💬 Ask me about ...
+- 📫 How to reach me: zizheng02@gmail.com
+- ⚡ Fun fact: 🎾
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cout%3C%3C%22Hello+World%22%3C%3Cendl%F0%9F%9A%80)](https://git.io/typing-svg)
 <!--
 **zizheng02/zizheng02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
