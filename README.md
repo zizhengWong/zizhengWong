@@ -1,7 +1,7 @@
 
 - 🌱 I’m currently learning Koa2 & Vue3 & React18
 - 💬 Ask me about ...
-- 📫 How to reach me: zizheng02@gmail.com
+- 📫 How to reach me: zizheng.wang02@gmail.com
 - ⚡ Fun fact: 🎾
 
 
