@@ -4,6 +4,9 @@
 - 📫 How to reach me: zizheng.wang02@gmail.com
 - ⚡ Fun fact: 🎾
 
+## 工作经历
+- 2022.08 - 2022.12 浙江大学国际设计研究院
+- 2022.12 - 2023.01 **字节跳动**-搜索-业务研发-抖音
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)<br/>
