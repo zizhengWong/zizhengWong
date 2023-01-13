@@ -30,9 +30,7 @@
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [语雀](https://www.yuque.com/cookie-5dtyt)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
