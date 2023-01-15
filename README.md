@@ -3,19 +3,18 @@
 
 ### I'm Zizheng Wang
 
-- A Undergraduate Student in ZJU. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, React and my projects on [zizheng.wang02@gmail.com](mailto:zizheng.wang02@gmail.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- A Undergraduate Student in ZJU & A Open Source enthusiast.
+- 🌱 Currently studying in Hangzhou, China.
+- 💬 Ask me about Golang, Python, React, JavaScript and my Projects on [zizheng.wang02@gmail.com](mailto:zizheng.wang02@gmail.com)
+- ⚡ Fun fact: Code
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=FCC624)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=FCC624)
+![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=0011ff)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=0000ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -27,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- (暂无）
 
 ### 关于我
 - [语雀](https://www.yuque.com/cookie-5dtyt)
