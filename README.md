@@ -37,6 +37,5 @@
 - 2022.08 - 2022.12 浙江大学国际设计研究院
 - 2022.12 - 2023.01 **字节跳动**-搜索-业务研发-抖音
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizheng02&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
