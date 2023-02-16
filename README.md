@@ -7,8 +7,6 @@
 - 🌱 Currently studying in Hangzhou, China.
 - 💬 Ask me about Golang, Python, C++\C, React, JavaScript, TypeScript and My Projects on [zizheng.wang02@gmail.com](mailto:zizheng.wang02@gmail.com)
 
-
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ## 实习经历
 - 2022.08 - 2022.12 浙江大学 **国际设计研究院**
 - 2022.12 - 2023.01 **字节跳动**-搜索-业务研发-抖音
