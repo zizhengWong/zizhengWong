@@ -5,7 +5,7 @@
 
 - A Undergraduate Student in ZJU & A Open Source enthusiast.
 - 🌱 Currently studying in Hangzhou, China.
-- 💬 Ask me about Golang, Python, C++\C, React, JavaScript, TypeScript and My Projects on [zizheng.wang02@gmail.com](mailto:zizheng.wang02@gmail.com)
+- 💬 Ask me about Golang, Python, C++\C, React, JavaScript, TypeScript and My Projects on [zizheng.wang02@gmail.com](mailto:zizheng.wang@berkeley.com)
 
 ## 实习经历
 - 2022.08 - 2022.12 浙江大学 **国际设计研究院**
