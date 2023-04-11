@@ -3,9 +3,8 @@
 
 ### I'm Zizheng Wang
 
-- A Undergraduate Student in ZJU & A Open Source enthusiast.
-- 🌱 Currently studying in Hangzhou, China.
-- 💬 Ask me about Golang, Python, C++\C, React, JavaScript, TypeScript and My Projects on [zizheng.wang02@gmail.com](mailto:zizheng.wang@berkeley.com)
+- 🌱 Currently, an undergraduate student of ZJU, class of 2021.
+- 计算机系统结构与网络安全研究所本科生成员
 
 ## 实习经历
 - 2022.08 - 2022.12 浙江大学 **国际设计研究院**
