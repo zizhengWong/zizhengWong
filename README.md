@@ -6,6 +6,17 @@
 an undergraduate student at **Zhejiang University**📖. I like automating things, exploring scalability problems and improving efficiency and performance🚀. 
 - ⚡ **Fun fact:** Network、Operation System、DevOps、Front-end
 
+#### Experience
+- **Internship**
+  - ByteDance
+- **Research**
+  - 浙江大学 国际设计研究院
+  - 浙江大学 计算机系统结构与网络安全研究所
+- **Open Source**
+  - Aliyun Cloud
+- **External Communication**
+  - The University of Texas at Austin
+  - University of California, Berkeley
 
 ###### 💾 EOF
 
