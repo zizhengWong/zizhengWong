@@ -4,9 +4,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Zizheng Wang,
 an undergraduate student at **Zhejiang University**📖. I like automating things, exploring scalability problems and improving efficiency and performance🚀. 
-- ⚡ **Fun fact:** 
-- 🔭 I’m currently working on Twitter Sentimental Analysis
-- :bulb: I'm interested in all things data: **Cloud, Machine Learning and Data Science**
+- ⚡ **Fun fact:** Network、Operation System、DevOps、Front-end
 
 
 ###### 💾 EOF
