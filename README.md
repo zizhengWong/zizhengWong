@@ -1,5 +1,4 @@
 <img align="right" src="https://media.giphy.com/media/6yU7IF9L3950A/giphy.gif" width="30%">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&vCenter=true&width=435&height=30&lines=%3E%3E%3E+print(profile))](https://git.io/typing-svg)
 
@@ -11,7 +10,7 @@ an undergraduate student at **Zhejiang University**📖. I like automating thing
 ###### 💾 EOF
 
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
 
 
