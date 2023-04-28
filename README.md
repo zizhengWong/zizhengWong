@@ -9,7 +9,7 @@ an undergraduate student at **Zhejiang University**📖. I like automating thing
 
 ###### 💾 EOF
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60%"/> 
+<img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40%"/> 
 
 
 
