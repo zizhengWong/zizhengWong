@@ -14,12 +14,6 @@ an undergraduate student at **Zhejiang University**📖. I like automating thing
 <img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60%"/> 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizheng02)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
