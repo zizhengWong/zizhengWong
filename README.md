@@ -10,7 +10,7 @@ an undergraduate student at **Zhejiang University**📖. I like automating thing
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
-#### Experience
+### Experience
 - **Internship**
   - ByteDance
 - **Research**
