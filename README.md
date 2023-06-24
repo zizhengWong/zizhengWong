@@ -2,8 +2,8 @@
 <img align="right" src="https://media.giphy.com/media/6yU7IF9L3950A/giphy.gif" width="30%">
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Zizheng Wang,
-an undergraduate student at Zhejiang University(2021-2025)🏫. I like automating things, exploring scalability problems and improving efficiency and performance🚀. 
-- ⚡ **Fun fact:**Artificial Intelligence、Network、Operation System、DevOps、Front-end etc.
+an undergraduate student at Zhejiang University(2021-2025)🏫, majoring in Mechanical Engineering(not ECE 555). I like automating things, exploring scalability problems and improving efficiency and performance🚀. 
+- ⚡ **Fun fact:Artificial Intelligence、Network、Operation System、DevOps、Front-end etc.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
