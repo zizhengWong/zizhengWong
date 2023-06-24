@@ -9,7 +9,7 @@ an undergraduate student at Zhejiang University(2021-2025)🏫. I like automatin
 
 ### Experience
 - **Internship**
-  - ByteDance 2022.12-2023.01
+  - ByteDance DouYin 2022.12-2023.01
 - **Research**
   - 浙江大学 国际设计研究院 2022.8-2022.12
   - 浙江大学 计算机系统结构与网络安全研究所 2023.03-
