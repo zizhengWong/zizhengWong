@@ -6,7 +6,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Zizheng Wang,
 an undergraduate student at **Zhejiang University**📖. I like automating things, exploring scalability problems and improving efficiency and performance🚀. 
-- ⚡ **Fun fact:** Network、Operation System、DevOps、Front-end
+- ⚡ **Fun fact:**Artificial Intelligence、Network、Operation System、DevOps、Front-end etc.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
@@ -16,8 +16,6 @@ an undergraduate student at **Zhejiang University**📖. I like automating thing
 - **Research**
   - 浙江大学 国际设计研究院
   - 浙江大学 计算机系统结构与网络安全研究所
-- **Open Source**
-  - Aliyun Cloud
 - **External Communication**
   - The University of Texas at Austin
   - University of California, Berkeley
