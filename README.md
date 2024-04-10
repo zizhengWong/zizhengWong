@@ -1,19 +1,20 @@
-  
 <img align="right" src="https://media.giphy.com/media/6yU7IF9L3950A/giphy.gif" width="30%">
 
-### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Zizheng Wong
-
-🐣an undergraduate student at Zhejiang University(2021-2025)🏫. 
-
-👨🏻‍💻I like automating things, exploring scalability problems and improving efficiency and performance🚀. 
+### Hi there, I'm Zizheng Wong!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zizheng-wang-228159266/)](https://www.linkedin.com/in/zizheng-wang-228159266/)
 
 
-⚡ **Fun fact:** C++、Operating System、DataBase、Network、Distributed System、Machine Learning System、AGI、DevOps、Front-end, etc.
+🐣 Undergraduate Student at Zhejiang University (2021-2025) . 
+
+👨🏻‍💻 Passionate about automating tasks, exploring scalability challenges, and enhancing efficiency and performance. 
+
+🅱️ Currently focused on cryptocurrencies quantitative trading.
+
+⚡ **Fun fact:** Proficient in C++, Operating Systems, Networking, Python, DevOps, and more.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
 ### Research
-🏅 浙江大学 计算机系统结构与网络安全研究所 2023.03-至今
+🏅 Researcher at the Institute of Computer System Architecture and Network Security, Zhejiang University (March 2023 - Present)
 ###### 💾 EOF
 
 
