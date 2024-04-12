@@ -9,7 +9,7 @@
 
 🅱️ Currently focused on cryptocurrencies quantitative trading.
 
-⚡ **Fun fact:** Proficient in C++, Operating Systems, Networking, Python, DevOps, and more.
+⚡ **Fun fact:** Proficient in C++, Operating System, Network, Python, DevOps.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/> 
 
