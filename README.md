@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/6yU7IF9L3950A/giphy.gif" width="30%">
 
-### Hi there, I'm Zizheng Wong!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zizheng-wang-228159266/)](https://www.linkedin.com/in/zizheng-wang-228159266/)
+### Hi, I'm Zizheng Wang!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zizheng-wang-228159266/)](https://www.linkedin.com/in/zizheng-wang-228159266/)
 
 
 🐣 Undergraduate Student at Zhejiang University (2021-2025) . 
